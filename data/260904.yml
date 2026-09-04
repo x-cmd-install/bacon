@@ -1,0 +1,60 @@
+about:
+  description: background code checker
+  license: AGPL-3.0
+  homepage: https://dystroy.org/bacon
+  head: d72b960
+  archived: false
+  latestVersion: v3.25.0
+  collectedAt: 2026-09-04T02:35:26Z
+timeline:
+  created: 2020-10-29
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-23
+popularity:
+  star: 3404
+  watcher: 10
+  fork: 125
+  release: 75
+  contributor: 59
+  pullRequest: 26
+  issue: 271
+language:
+  Rust: 401633
+  Shell: 24590
+  CSS: 18887
+  JavaScript: 16453
+  Nix: 1020
+totalLine: 462583
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 6
+    openPR: 1
+    closedIssue: 2
+    openIssue: 0
+    commit: 13
+  last90d:
+    since: 2026-06-06
+    release: 2
+    mergedPR: 11
+    openPR: 2
+    closedIssue: 5
+    openIssue: 1
+    commit: 33
+  last180d:
+    since: 2026-03-08
+    release: 3
+    mergedPR: 14
+    openPR: 2
+    closedIssue: 7
+    openIssue: 1
+    commit: 45
+  last360d:
+    since: 2025-09-09
+    release: 9
+    mergedPR: 32
+    openPR: 2
+    closedIssue: 28
+    openIssue: 8
+    commit: 117
