@@ -5,18 +5,18 @@ about:
   head: a9d8701
   archived: false
   latestVersion: "v3.25.0"
-  collectedAt: 2026-09-07T04:54:39Z
+  collectedAt: 2026-09-07T19:36:08Z
 timeline:
   created: 2020-10-29
   lastCommit: 2026-09-05
   lastRelease: 2026-08-23
 popularity:
-  star: 3405
+  star: 3406
   watcher: 10
-  fork: 125
+  fork: 126
   release: 75
   contributor: 61
-  pullRequest: 193
+  pullRequest: 194
   issue: 271
 language:
   Rust: 406830
@@ -30,7 +30,7 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 6
-    openPR: 1
+    openPR: 2
     closedIssue: 2
     openIssue: 0
     commit: 15
@@ -38,7 +38,7 @@ recent:
     since: 2026-07-09
     release: 2
     mergedPR: 11
-    openPR: 1
+    openPR: 2
     closedIssue: 6
     openIssue: 0
     commit: 32
@@ -46,7 +46,7 @@ recent:
     since: 2026-06-09
     release: 2
     mergedPR: 13
-    openPR: 1
+    openPR: 2
     closedIssue: 6
     openIssue: 0
     commit: 39
@@ -54,7 +54,7 @@ recent:
     since: 2026-03-11
     release: 3
     mergedPR: 16
-    openPR: 1
+    openPR: 2
     closedIssue: 8
     openIssue: 0
     commit: 51
@@ -62,7 +62,7 @@ recent:
     since: 2025-09-12
     release: 9
     mergedPR: 32
-    openPR: 1
+    openPR: 2
     closedIssue: 28
     openIssue: 6
     commit: 121
@@ -70,20 +70,20 @@ recent:
     since: 2024-09-17
     release: 29
     mergedPR: 108
-    openPR: 3
+    openPR: 4
     closedIssue: 101
     openIssue: 31
     commit: 393
 total:
   release: 75
   mergedPR: 168
-  openPR: 3
+  openPR: 4
   closedIssue: 224
   openIssue: 47
   commit: 755
 ---
 path: /home/runner/.x-repo/github.com/Canop/bacon
-collectedAt: 2026-09-07T04:54:40Z
+collectedAt: 2026-09-07T19:36:09Z
 loc:
   Rust:
     code: 11477
@@ -139,7 +139,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:54:40+00:00
+  collectedAt: 2026-09-07T19:36:10+00:00
   platform:
     darwin/arm64:
       name:  null
