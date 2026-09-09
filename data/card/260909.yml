@@ -142,4 +142,3 @@ total:
 ---
 
 ---
-{"id":375262686,"author":{"login":"Canop","id":617006,"node_id":"MDQ6VXNlcjYxNzAwNg==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOEmC2K84WXg3e","tag_name":"v3.25.0","target_commitish":"main","name":"bacon v3.25.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-08-23T16:20:47Z","updated_at":"2026-08-23T16:24:56Z","published_at":"2026-08-23T16:24:56Z","assets":[],"body":"- fix crash in search on multibyte char in pattern and wrapped output - Fix #446\r\n- fix crash of search when output grows - Fix #447\r\n- fix unability to remove backtab binding - Fix #450\r\n- watch build scripts relocated with the `package.build` manifest key, instead of only the default `build.rs` path - Fix #205\r\n","reactions":{"total_count":4,"+1":4,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
