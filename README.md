@@ -14,11 +14,11 @@ x install bacon
 
 ## Code insight
 
-Total: **15,381** lines of code across **139** files in the top 5 languages.
+Total: **15,397** lines of code across **139** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,069 | 234 | 705 | 124 |
+| Rust | 12,085 | 234 | 706 | 124 |
 | Json | 1,077 | 0 | 0 | 1 |
 | Css | 898 | 18 | 40 | 3 |
 | JavaScript | 407 | 37 | 33 | 2 |
@@ -33,7 +33,7 @@ Total: **15,381** lines of code across **139** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.25.0` (2026-08-23)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-13
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **15,381** lines of code across **139** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 170 · **Open PRs**: 2 · **Closed issues**: 224 · **Open issues**: 47 · **Commits**: 769
+- **Releases**: 75 · **Merged PRs**: 170 · **Open PRs**: 2 · **Closed issues**: 238 · **Open issues**: 33 · **Commits**: 772
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 7 | 1 | 2 | 0 | 20 |
-| last60d | 2026-07-15 | 1 | 12 | 1 | 6 | 0 | 38 |
-| 90d | 2026-06-15 | 2 | 14 | 1 | 6 | 0 | 45 |
-| last180d | 2026-03-17 | 3 | 17 | 1 | 8 | 0 | 56 |
-| 360d | 2025-09-18 | 9 | 33 | 1 | 28 | 6 | 127 |
-| last720d | 2024-09-23 | 29 | 110 | 2 | 100 | 31 | 407 |
+| 30d | 2026-08-15 | 1 | 7 | 1 | 2 | 0 | 23 |
+| last60d | 2026-07-16 | 1 | 12 | 1 | 6 | 0 | 41 |
+| 90d | 2026-06-16 | 2 | 14 | 1 | 6 | 0 | 48 |
+| last180d | 2026-03-18 | 3 | 17 | 1 | 7 | 0 | 59 |
+| 360d | 2025-09-19 | 9 | 33 | 1 | 29 | 5 | 130 |
+| last720d | 2024-09-24 | 29 | 110 | 2 | 110 | 21 | 410 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for bacon lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:13:47Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:09:15Z._
