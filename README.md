@@ -4,7 +4,7 @@
 
 background code checker
 
-![bacon](https://repo.x-cmd.io/bacon.svg)
+[![x-cmd/install — bacon Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bacon.svg)](https://x-cmd.com/install/bacon)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **15,397** lines of code across **139** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,417 · **Forks**: 126 · **Open issues**: 271 · **Contributors**: 61
+- **Stars**: 3,417 · **Forks**: 126 · **Open issues**: 272 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 170 · **Open PRs**: 2 · **Closed issues**: 238 · **Open issues**: 33 · **Commits**: 772
+- **Releases**: 75 · **Merged PRs**: 170 · **Open PRs**: 2 · **Closed issues**: 238 · **Open issues**: 34 · **Commits**: 772
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 6 | 1 | 2 | 0 | 23 |
-| last60d | 2026-07-20 | 1 | 12 | 1 | 6 | 0 | 41 |
-| 90d | 2026-06-20 | 2 | 14 | 1 | 6 | 0 | 48 |
-| last180d | 2026-03-22 | 3 | 17 | 1 | 7 | 0 | 59 |
-| 360d | 2025-09-23 | 9 | 33 | 1 | 28 | 5 | 130 |
-| last720d | 2024-09-28 | 29 | 108 | 2 | 109 | 21 | 409 |
+| 30d | 2026-08-21 | 1 | 6 | 1 | 2 | 1 | 17 |
+| last60d | 2026-07-22 | 1 | 12 | 1 | 4 | 1 | 27 |
+| 90d | 2026-06-22 | 2 | 13 | 1 | 6 | 1 | 47 |
+| last180d | 2026-03-24 | 3 | 17 | 1 | 7 | 1 | 59 |
+| 360d | 2025-09-25 | 9 | 33 | 1 | 27 | 6 | 130 |
+| last720d | 2024-09-30 | 29 | 107 | 2 | 109 | 22 | 408 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for bacon lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:06:15Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:18:00Z._
