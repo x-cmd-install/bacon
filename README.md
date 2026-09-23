@@ -4,7 +4,7 @@
 
 background code checker
 
-[![x-cmd/install — bacon Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bacon.svg)](https://x-cmd.com/install/bacon)
+[![x-cmd/install — bacon Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bacon.svg)](https://x-cmd.com/install/bacon)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **16,203** lines of code across **143** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,419 · **Forks**: 126 · **Open issues**: 272 · **Contributors**: 61
+- **Stars**: 3,420 · **Forks**: 126 · **Open issues**: 272 · **Contributors**: 61
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **16,203** lines of code across **143** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 5 | 1 | 2 | 0 | 21 |
-| last60d | 2026-07-24 | 1 | 11 | 1 | 3 | 0 | 31 |
-| 90d | 2026-06-24 | 2 | 14 | 1 | 7 | 0 | 51 |
-| last180d | 2026-03-26 | 3 | 18 | 1 | 8 | 0 | 63 |
-| 360d | 2025-09-27 | 9 | 34 | 1 | 28 | 5 | 134 |
-| last720d | 2024-10-02 | 29 | 106 | 2 | 105 | 19 | 412 |
+| 30d | 2026-08-24 | 0 | 5 | 1 | 1 | 0 | 21 |
+| last60d | 2026-07-25 | 1 | 10 | 1 | 3 | 0 | 31 |
+| 90d | 2026-06-25 | 2 | 14 | 1 | 7 | 0 | 51 |
+| last180d | 2026-03-27 | 3 | 18 | 1 | 8 | 0 | 63 |
+| 360d | 2025-09-28 | 9 | 34 | 1 | 28 | 5 | 134 |
+| last720d | 2024-10-03 | 29 | 106 | 2 | 104 | 19 | 411 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for bacon lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:15:39Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:14:27Z._
