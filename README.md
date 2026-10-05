@@ -38,7 +38,7 @@ Total: **16,233** lines of code across **143** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,437 · **Forks**: 127 · **Open issues**: 272 · **Contributors**: 61
+- **Stars**: 3,438 · **Forks**: 127 · **Open issues**: 272 · **Contributors**: 61
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **16,233** lines of code across **143** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 1 | 1 | 1 | 1 | 0 | 13 |
-| last60d | 2026-08-05 | 2 | 9 | 1 | 3 | 0 | 30 |
-| 90d | 2026-07-06 | 3 | 14 | 1 | 7 | 0 | 48 |
-| last180d | 2026-04-07 | 4 | 18 | 1 | 8 | 0 | 63 |
-| 360d | 2025-10-09 | 10 | 34 | 1 | 26 | 5 | 131 |
-| last720d | 2024-10-14 | 29 | 100 | 2 | 94 | 17 | 390 |
+| 30d | 2026-09-05 | 1 | 1 | 1 | 1 | 0 | 13 |
+| last60d | 2026-08-06 | 2 | 9 | 1 | 3 | 0 | 30 |
+| 90d | 2026-07-07 | 3 | 13 | 1 | 7 | 0 | 48 |
+| last180d | 2026-04-08 | 4 | 18 | 1 | 8 | 0 | 63 |
+| 360d | 2025-10-10 | 10 | 34 | 1 | 26 | 5 | 131 |
+| last720d | 2024-10-15 | 29 | 99 | 2 | 93 | 17 | 389 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for bacon lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:02:19Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:49:20Z._
