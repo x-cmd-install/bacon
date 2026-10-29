@@ -48,12 +48,12 @@ Total: **16,299** lines of code across **143** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 0 | 1 | 1 | 2 | 1 |
-| last60d | 2026-08-29 | 1 | 2 | 2 | 2 | 2 | 21 |
-| 90d | 2026-07-30 | 2 | 9 | 2 | 4 | 2 | 34 |
-| last180d | 2026-05-01 | 4 | 17 | 2 | 9 | 2 | 62 |
-| 360d | 2025-11-02 | 9 | 31 | 2 | 27 | 7 | 122 |
-| last720d | 2024-11-07 | 27 | 95 | 3 | 87 | 19 | 368 |
+| 30d | 2026-09-29 | 0 | 0 | 1 | 1 | 2 | 1 |
+| last60d | 2026-08-30 | 1 | 2 | 2 | 2 | 2 | 21 |
+| 90d | 2026-07-31 | 2 | 9 | 2 | 4 | 2 | 34 |
+| last180d | 2026-05-02 | 4 | 17 | 2 | 9 | 2 | 62 |
+| 360d | 2025-11-03 | 9 | 31 | 2 | 27 | 7 | 122 |
+| last720d | 2024-11-08 | 27 | 94 | 3 | 87 | 19 | 368 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for bacon lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:52:07Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:55:02Z._
