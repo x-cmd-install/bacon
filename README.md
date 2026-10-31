@@ -14,11 +14,11 @@ x install bacon
 
 ## Code insight
 
-Total: **16,299** lines of code across **143** files in the top 5 languages.
+Total: **16,300** lines of code across **143** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,917 | 252 | 745 | 128 |
+| Rust | 12,918 | 252 | 745 | 128 |
 | Json | 1,077 | 0 | 0 | 1 |
 | Css | 898 | 18 | 40 | 3 |
 | Sh | 456 | 171 | 77 | 9 |
@@ -33,27 +33,27 @@ Total: **16,299** lines of code across **143** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.26.0` (2026-09-26)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-19
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 3,459 · **Forks**: 128 · **Open issues**: 275 · **Contributors**: 61
+- **Stars**: 3,462 · **Forks**: 129 · **Open issues**: 275 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 171 · **Open PRs**: 3 · **Closed issues**: 241 · **Open issues**: 34 · **Commits**: 780
+- **Releases**: 76 · **Merged PRs**: 171 · **Open PRs**: 4 · **Closed issues**: 241 · **Open issues**: 34 · **Commits**: 781
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 1 | 1 | 2 | 1 |
-| last60d | 2026-08-31 | 1 | 2 | 2 | 2 | 2 | 21 |
-| 90d | 2026-08-01 | 2 | 9 | 2 | 4 | 2 | 34 |
-| last180d | 2026-05-03 | 4 | 17 | 2 | 9 | 2 | 62 |
-| 360d | 2025-11-04 | 9 | 31 | 2 | 27 | 7 | 122 |
-| last720d | 2024-11-09 | 27 | 94 | 3 | 87 | 19 | 368 |
+| 30d | 2026-10-01 | 0 | 0 | 2 | 1 | 2 | 2 |
+| last60d | 2026-09-01 | 1 | 2 | 3 | 2 | 2 | 22 |
+| 90d | 2026-08-02 | 2 | 9 | 3 | 4 | 2 | 35 |
+| last180d | 2026-05-04 | 4 | 17 | 3 | 9 | 2 | 63 |
+| 360d | 2025-11-05 | 9 | 31 | 3 | 27 | 7 | 123 |
+| last720d | 2024-11-10 | 27 | 93 | 4 | 87 | 19 | 366 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for bacon lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:55:13Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:47:11Z._
